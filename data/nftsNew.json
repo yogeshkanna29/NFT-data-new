@@ -1,0 +1,95 @@
+{
+    "nfts": [
+      {
+        "name": "Digital Artwork #1",
+        "artist": "Alice Smith",
+        "description": "A stunning digital painting featuring vibrant colors and abstract shapes.",
+        "tokenId": 1001,
+        "owner": "0x9a8b7c6d7e4f102f4b7c92c08b72758a394049e7a",
+        "imageURI": "https://example.com/nft1.png",
+        "metadataURI": "https://example.com/nft1-metadata.json"
+      },
+      {
+        "name": "Collectible Card #42",
+        "artist": "Bob Johnson",
+        "description": "A rare collectible card from the famous 'Fantasy Creatures' series.",
+        "tokenId": 2001,
+        "owner": "0x4c5f823d8e12b6e5c8a9a2f46ac381fa9476d1532",
+        "imageURI": "https://example.com/nft2.png",
+        "metadataURI": "https://example.com/nft2-metadata.json"
+      },
+      {
+        "name": "CryptoKitty #789",
+        "artist": "Charlie Brown",
+        "description": "A unique CryptoKitty with blue fur and a mischievous look.",
+        "tokenId": 3001,
+        "owner": "0xe7d9c4f6a0d534a8a0f28e9e96c9ea9a7757de17",
+        "imageURI": "https://example.com/nft3.png",
+        "metadataURI": "https://example.com/nft3-metadata.json"
+      },
+      {
+        "name": "Virtual Real Estate Parcel #17",
+        "artist": "David Wilson",
+        "description": "A virtual land parcel in the metaverse with prime location.",
+        "tokenId": 4001,
+        "owner": "0x35c1b879fc0d5b9319ac79265435d8193929f53c2",
+        "imageURI": "https://example.com/nft4.png",
+        "metadataURI": "https://example.com/nft4-metadata.json"
+      },
+      {
+        "name": "Rare Weapon Skin #5",
+        "artist": "Eva Martinez",
+        "description": "A limited-edition weapon skin for your favorite game.",
+        "tokenId": 5001,
+        "owner": "0x62a0e6a9a8e45b4721c7f76d1c4051f4c97f84c0e",
+        "imageURI": "https://example.com/nft5.png",
+        "metadataURI": "https://example.com/nft5-metadata.json"
+      },
+      {
+        "name": "Digital Sculpture #3",
+        "artist": "Frank Davis",
+        "description": "A 3D digital sculpture showcasing intricate details and textures.",
+        "tokenId": 6001,
+        "owner": "0x7b42f913df2e678a926cc93279f915bc8e2a4a63",
+        "imageURI": "https://example.com/nft6.png",
+        "metadataURI": "https://example.com/nft6-metadata.json"
+      },
+      {
+        "name": "Rare Trading Card #17",
+        "artist": "Grace Lee",
+        "description": "A sought-after trading card with a holographic foil finish.",
+        "tokenId": 7001,
+        "owner": "0x8f6d7b65a75ef8b587e0c6f8f90f53ce3f5d72d7",
+        "imageURI": "https://example.com/nft7.png",
+        "metadataURI": "https://example.com/nft7-metadata.json"
+      },
+      {
+        "name": "Virtual Pet #123",
+        "artist": "Harrison Rogers",
+        "description": "A virtual pet that you can nurture and raise in your favorite game.",
+        "tokenId": 8001,
+        "owner": "0x30d3e49916bb95cfddcc99c2e0743171ca7640b5",
+        "imageURI": "https://example.com/nft8.png",
+        "metadataURI": "https://example.com/nft8-metadata.json"
+      },
+      {
+        "name": "Digital Portrait #7",
+        "artist": "Isabel Hall",
+        "description": "A digital portrait capturing the essence of a famous historical figure.",
+        "tokenId": 9001,
+        "owner": "0x0a7f8657747a21beac5c8536a9b8d4b0cafae82e",
+        "imageURI": "https://example.com/nft9.png",
+        "metadataURI": "https://example.com/nft9-metadata.json"
+      },
+      {
+        "name": "Space Exploration VR Experience",
+        "artist": "John Turner",
+        "description": "An immersive virtual reality experience exploring outer space.",
+        "tokenId": 10001,
+        "owner": "0x51e61e1f53c97d6de30c5f1556823f50a642ad7c7",
+        "imageURI": "https://example.com/nft10.png",
+        "metadataURI": "https://example.com/nft10-metadata.json"
+      }
+    ]
+  }
+  
